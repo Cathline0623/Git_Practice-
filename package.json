@@ -1,0 +1,22 @@
+{
+  "name": "git_practice-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cathline0623/Git_Practice-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cathline0623/Git_Practice-/issues"
+  },
+  "homepage": "https://github.com/Cathline0623/Git_Practice-#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  }
+}
